@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">uastara</string>
+    <string name="url_prompt">www.example.com</string>
+
+    <string-array name="http_array">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
